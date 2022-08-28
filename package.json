@@ -1,0 +1,16 @@
+{
+  "name": "com.lhilgers.urbanvegetation",
+  "version": "0.0.1",
+  "displayName": "Procedural Urban Vegetation Generation",
+  "description": "A package that helps you to generate vegetation for your urban environments",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+ "keywords": [
+    "pcg",
+    "urban",
+    "vegetation"
+  ],
+  "author": {
+    "name": "Linda Hilgers"
+  }
+}
